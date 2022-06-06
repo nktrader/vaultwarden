@@ -120,7 +120,7 @@ handlebars = { version = "4.1.6", features = ["dir_source"] }
 # For favicon extraction from main website
 html5ever = "0.25.1"
 markup5ever_rcdom = "0.1.0"
-regex = { version = "1.5.4", features = ["std", "perf", "unicode-perl"], default-features = false }
+regex = { version = "1.5.5", features = ["std", "perf", "unicode-perl"], default-features = false }
 data-url = "0.1.1"
 
 # Used by U2F, JWT and Postgres
