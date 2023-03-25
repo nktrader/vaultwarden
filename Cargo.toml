@@ -124,7 +124,7 @@ regex = { version = "1.5.4", features = ["std", "perf", "unicode-perl"], default
 data-url = "0.1.1"
 
 # Used by U2F, JWT and Postgres
-openssl = "0.10.38"
+openssl = "0.10.48"
 
 # URL encoding library
 percent-encoding = "2.1.0"
